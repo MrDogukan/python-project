@@ -4,3 +4,4 @@ bu bir text dosyasıdır//////
 text:1
 
 print("hello world")
+list = ["one","two","three"]
